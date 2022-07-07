@@ -21,6 +21,7 @@
     "react/react-in-jsx-scope": "off",
     "react/function-component-definition": "off",
     "no-console": [0],
-    "no-use-before-define": "off"
+    "no-use-before-define": "off",
+    "no-param-reassign": "off"
   }
 }
